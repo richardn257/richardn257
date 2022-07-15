@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @richardn257
+# 👋 Hi, I’m @richardn257
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning algorithms, dsicrete math, comp architecture and organization, and C++
 - 💞️ I’m looking to collaborate on projects
