@@ -1,5 +1,5 @@
 # Hello there!
-My name is Richard and I'm a Computer Science student at CSU Long Beach. I'm focused on learning web development.
+My name is Richard and I'm a Computer Science student at CSU Long Beach.
 <!--
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning algorithms, dsicrete math, comp architecture and organization, and C++
