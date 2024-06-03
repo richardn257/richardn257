@@ -1,5 +1,5 @@
 # Hello there!
-My name is Richard and I'm a Computer Science student at CSU Long Beach.
+My name is Richard and I graduated from CSU Long Beach with a degree in Computer Science as a first-generation student.
 <!--
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning algorithms, dsicrete math, comp architecture and organization, and C++
